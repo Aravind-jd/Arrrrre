@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922558953625",
+    "project_id": "judo-43752",
+    "storage_bucket": "judo-43752.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922558953625:android:c55ca283a328355a5be008",
+        "android_client_info": {
+          "package_name": "com.example.judo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51garkWBYs8MeoCG5Pg0fsyup4q2Zd7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
